@@ -1,0 +1,13 @@
+.overlay {
+  position: fixed;
+  width: 80%;
+  text-align: center;
+  background-color: purple;
+  border-radius: 10px;
+  font-size: 20px;
+  height: 90%;
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.2s ease-out;
+  z-index: 1000; /* Adjust the z-index to ensure it appears above other content */
+  display: none;
+}

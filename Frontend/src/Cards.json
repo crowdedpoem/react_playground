@@ -1,0 +1,9 @@
+{
+  "cards": [
+    {
+      "imgSrc": "https://picsum.photos/300/200",
+      "amount": 3,
+      "substitute": "spaghetti"
+    } 
+  ]
+}

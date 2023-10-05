@@ -1,0 +1,6 @@
+.card-table{
+    width: 75%;
+    height: 100%;
+    /* grid-template-columns: 30%; */
+    float: right;
+}
